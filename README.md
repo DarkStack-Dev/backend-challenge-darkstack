@@ -19,7 +19,7 @@ Nosso principal objetivo é acelerar o desenvolvimento técnico dos nossos membr
 
 Para ter suas contribuições revisadas e fazer parte da nossa turma, o processo é simples:
 
-1.  **Inscreva-se na Turma:** Preencha nosso **[FORMULÁRIO DE INSCRIÇÃO](https://link-para-seu-formulario.com)** para se tornar um membro oficial.
+1.  **Inscreva-se na Turma:** Preencha nosso **[FORMULÁRIO DE INSCRIÇÃO](https://docs.google.com/forms/d/e/1FAIpQLSfQBl7mpm0LG5_TSWlGNG1_BcJf8W20bMdMME3FzlYkHwQ0og/viewform?usp=sharing&ouid=115398448156311276804)** para se tornar um membro oficial.
 2.  **Entenda a Dinâmica:** Leia nosso **[GUIA DE PARTICIPAÇÃO](./GUIDE.md)** para compreender todas as regras e o funcionamento da iniciativa.
 3.  **Aprenda a Contribuir:** Antes de enviar sua primeira solução, siga o passo a passo no nosso **[GUIA DE CONTRIBUIÇÃO](./CONTRIBUTING.md)**.
 
